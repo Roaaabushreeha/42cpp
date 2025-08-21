@@ -1,7 +1,7 @@
 CXX = c++
 CXXFLAGS = -Wall -Werror -Wextra -std=c++98
-NAME = sed
-SRC= main.cpp
+NAME = harl
+SRC= main.cpp Harl.cpp
 OBJ=$(SRC:.cpp=.o)
 
 all : $(NAME)
@@ -16,4 +16,4 @@ clean :
 fclean : clean
 	rm -f $(NAME)
 re : fclean all 
-.Phony : all clean fclean re
+.PHONY: all clean fclean re
