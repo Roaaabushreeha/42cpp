@@ -1,4 +1,4 @@
-# 📘 42 C++ Project: [Project Name]
+# 📘 42 C++ 
 
 > 🏫 A project developed as part of the **42 School** curriculum.  
 > 🎯 Language: C++ | 🚀 Level: [Beginner/Intermediate/Advanced]
